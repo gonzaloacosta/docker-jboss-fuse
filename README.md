@@ -7,6 +7,8 @@
 	jboss-eap-6.4.0.zip  
 	run.sh
 
+Se deben descargar los archivos fuse-eap-installer-6.2.1.redhat-084.jar jboss-eap-6.4.0.zip
+
 # Docker Build
 docker build --rm --tag=jboss-fuse:6.2.1
 
